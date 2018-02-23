@@ -9,9 +9,6 @@
     "node": "7.1.0",
     "npm": "3.10.9"
   },
-  "scripts":{
-    "start":"hexo server"
-  },
   "dependencies": {
     "hexo": "^3.2.0",
     "hexo-admin": "^2.3.0",
