@@ -77,8 +77,8 @@ theme: cactus-dark
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: heroku
-  repo: hexo-blog-varun
+  type: git
+  repo: https://github.com/varunkakkar/hexo-blog.git
 
 
 # hexo-admin authentification
